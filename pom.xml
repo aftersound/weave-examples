@@ -10,10 +10,10 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <name>examples</name>
-    <description>Extensions for Weave, a Java-based declarative service/batch framework</description>
 
     <modules>
         <module>codec-example</module>
+        <module>config-example</module>
     </modules>
 
     <licenses>
